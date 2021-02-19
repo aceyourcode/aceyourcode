@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+# Hi there 👋
 
 
 
@@ -7,5 +9,5 @@
 - 📫 How to reach me: DM me on instagram | whatsup.mudrank@gmail.com
 
 
-##Check out my posts at 👇
+Check out my **web dev** posts 👇
 • [Instagram](https://www.instagram.com/aceyourcode/)
